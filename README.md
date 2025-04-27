@@ -24,3 +24,6 @@ The Personal Expense Tracker is a simple application built using MySQL and Pytho
 - Python 3.x installed on your machine.
 - MySQL server installed and running.
 - MySQL Workbench (optional, for GUI management).
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/Personal-Expense-Tracker/blob/main/LICENSE) file for details.
